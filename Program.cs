@@ -1,5 +1,5 @@
 ﻿using System;
-namespace console_programlama
+namespace console_programming
 {
     class Program
     {
